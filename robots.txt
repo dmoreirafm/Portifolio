@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://diegomoreiraportifolio.netlify.app/sitemap.xml
+
+# Arquivos a não indexar
+Disallow: /assets/sass/
+Disallow: /*.backup
+Disallow: /*_backup*
+
