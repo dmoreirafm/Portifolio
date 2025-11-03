@@ -1,0 +1,23 @@
+# Arquivos de backup
+**/*_backup*.jpg
+**/*_backup*.png
+**/*_backup*.gif
+**/*backup*
+
+# Arquivos temporários
+**/*_temp.*
+**/temp_*
+**/.DS_Store
+**/Thumbs.db
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
